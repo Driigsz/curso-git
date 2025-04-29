@@ -5,6 +5,4 @@ Aqui neste arquivo README teremos informações relativas ao nosso projeto
 
 ## Subtítulo do README
 
- - 1
- - 2 
- - 3
+ Arquivo apenas para testes, atualizando github.
